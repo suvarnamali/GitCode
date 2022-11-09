@@ -1,0 +1,57 @@
+
+
+
+// Task 1
+
+Step 1
+// git download
+https://git-scm.com/downloads
+
+
+Step 2
+//github sign up
+https://github.com/ (once sign up verify the acc)
+// username 
+// password
+// email
+
+
+Step 3:
+Create folder on Desktop 
+Open the folder with visual studio code'
+Add script.js to it 
+Open terminal and run commands
+
+
+git config user.name "minskoleopc"
+git config --global user.email "minskoleopc@gmail.com"
+
+Step 4:-
+git init  (intialize the folder with git repository)   
+|working|staging|local repo ===>  remote repo (git hub)
+
+working to staging 
+git add . 
+git add script.js
+
+staging to local repo or to save
+git commit -m "cal"
+
+Steps 5:- 
+
+open git hub 
+create new  repo 
+make it public 
+run last three commands
+
+(Check code form local repo is available on remote repo)
+
+
+
+
+
+
+
+
+git init  --- intialize the folder with git 
+
